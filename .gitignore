@@ -34,13 +34,6 @@ logs/
 *.log
 *.csv
 *.json
-*.md
-*.txt
-
-# 画像ファイル (必要に応じて)
-# *.png
-# *.jpg
-# *.jpeg
 
 # エディタ関連
 .idea/
